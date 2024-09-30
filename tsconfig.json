@@ -9,7 +9,7 @@
       "moduleResolution": "node",
       "allowSyntheticDefaultImports": true,
       "esModuleInterop": true, // возможность нормального импорта
-      "baseUrl": "/testcase_findsport",
+      "baseUrl": ".",
       "paths": {
         "@/*": ["./src/*"] 
       }
