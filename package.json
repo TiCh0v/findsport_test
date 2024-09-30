@@ -1,7 +1,7 @@
 {
   "name": "starter",
   "version": "1.0.0",
-  "homepage": "https://tich0v.github.io/testcase_findsport/",
+  "homepage": "https://tich0v.github.io/findsport_test/",
   "main": "index.js",
   "scripts": {
     "dev": "webpack --env mode=development",
